@@ -1,4 +1,4 @@
-#include <LiquidCrystal_I2C.h>
+# include <LiquidCrystal_I2C.h>
 #include <Wire.h>    
 //Found address:  (0x27) texas
 //Found address:  (0x3F) nxp
